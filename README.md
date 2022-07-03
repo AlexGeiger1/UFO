@@ -2,8 +2,7 @@
 
 # Objective
 
-## Purpose
-The purpose was to create a website that uses a dynamic table of recorded UFO sightings throughout the world. This table allowed for filtering where the users can select specific criteria; city, state, country, shape, and date. These criterias were used to filter the table to the specific results the user selected. The main purpose of this website was to create a detailed analysis of UFO sightings. 
+The purpose of this project was to create a website that uses a dynamic table of recorded UFO sightings throughout the world. The table allows users to select specific criteria: city, state, country, shape, and date of the UFO sighting. These criteria were used to filter the table to the specific results the user selected. The main purpose of this website is to create a detailed analysis of UFO sightings. 
 # Results
 
 ## Using the Website
